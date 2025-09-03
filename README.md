@@ -12,4 +12,13 @@
 ![Android Studio](badges/android_studio.svg)
 
 
-Примеры работ
+## Примеры работ
+### Тестовая документация
+[Чек лист 1](https://docs.google.com/spreadsheets/d/1TJou639SUuQYBuaT5XDLCPOqaSZmFdyEAk9oF1j4UeQ/edit?usp=sharing)
+
+[Чек лист 2](https://docs.google.com/spreadsheets/d/1vezffzue094juwQFp8gFU0uLUECDuR0jDHf9OlLl4DU/edit?usp=sharing)
+
+[Чек лист 3](https://docs.google.com/spreadsheets/d/1njuZBiRpLOorxmXrv6HJ1sL_hDPSxHVaSIdzXm3sdxQ/edit?usp=sharing)
+
+[Тестовый набор](https://docs.google.com/spreadsheets/d/1WPAMfOWaz_FsZT94XIW-01XUU273JEWttgAWLHaxEd4/edit?usp=sharing)
+
