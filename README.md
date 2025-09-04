@@ -1,6 +1,6 @@
-![Заголовок](https://github.com/belchaevaa/belchaevaa/blob/main/assets/photo_2025-09-03_16-50-22.jpg)
+![Заголовок](https://github.com/belchaevaa/belchaevaa/blob/main/assets/Frame%203.png)
 
-## Я начинающий QA ingeneer
+## Меня зовут Бельчаева Александра. Я начинающий QA ingeneer
 
 ## Языки и инструменты
 ![Jira](badges/jira.svg)
