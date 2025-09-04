@@ -2,7 +2,7 @@
 
 ## Меня зовут Бельчаева Александра. Я начинающий QA ingeneer
 ### Сертификат о прохождении курсов тестировщика:
-<embed src="assets/certificate.pdf" type="application/pdf" width="100%" height="600px">
+<embed src=assets/certificate.pdf type="application/pdf" width="100%" height="600px">
 
 
 ## Языки и инструменты
