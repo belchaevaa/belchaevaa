@@ -1,6 +1,9 @@
 ![Заголовок](https://github.com/belchaevaa/belchaevaa/blob/main/assets/Frame%203.png)
 
 ## Меня зовут Бельчаева Александра. Я начинающий QA ingeneer
+### Сертификат о прохождении курсов тестировщика:
+![Заголовок](https://github.com/belchaevaa/belchaevaa/blob/main/assets/stepik-certificate-171826-f01370c.pdf)
+
 
 ## Языки и инструменты
 ![Jira](badges/jira.svg)
